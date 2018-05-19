@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application Title="MDIDemo" Subtitle="Powered by eXpressApp Framework" Company="Developer Express Inc" Logo="ExpressAppLogo">
+	<SchemaModules IsNewNode="True">
+		<SchemaModule Name="CommonSystemModule" Version="7.1.2.3434" IsNewNode="True" />
+		<SchemaModule Name="Validation Module" Version="7.1.2.3434" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="7.1.2.3434" IsNewNode="True" />
+	</SchemaModules>
+</Application>

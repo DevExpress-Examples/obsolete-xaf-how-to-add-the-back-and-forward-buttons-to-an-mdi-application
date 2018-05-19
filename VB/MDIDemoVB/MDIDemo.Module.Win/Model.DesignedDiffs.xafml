@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+  <ActionDesign>
+    <Actions>
+      <Action ID="MDINavigateBack" ImageName="MenuBar_BackFrame" Shortcut="Alt+Left" />
+      <Action ID="MDINavigateForward" ImageName="MenuBar_ForwardFrame" Shortcut="Alt+Right" />
+    </Actions>
+  </ActionDesign>
+	<NavigationItems>
+		<Group ID="Default">
+			<Item ID="SimpleUser_ListView" Removed="True" />
+		</Group>
+		<Group ID="Items" IsNewNode="True">
+			<Item ID="SimpleUser_ListView" ViewID="SimpleUser_ListView" IsNewNode="True" />
+		</Group>
+	</NavigationItems>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.3.0.4997" />
+		<SchemaModule Name="SystemModule" Version="8.3.0.4997" IsNewNode="True" />
+		<SchemaModule Name="SystemWindowsFormsModule" Version="8.3.0.4997" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.3.0.4997" IsNewNode="True" />
+	</SchemaModules>
+</Application>
