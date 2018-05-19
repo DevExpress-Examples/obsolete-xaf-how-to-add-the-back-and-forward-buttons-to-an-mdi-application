@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<NavigationItems>
+		<Group ID="Default">
+			<Item ID="MyDetails" Removed="True" />
+		</Group>
+		<Group ID="Items">
+			<Item ID="MyDetails" ViewID="SimpleUser_DetailView" ObjectKey="@CurrentUserID" Caption="My Details" IsNewNode="True" />
+		</Group>
+	</NavigationItems>
+	<SchemaModules>
+		<SchemaModule Name="ValidationModule" Version="8.3.0.4997" IsNewNode="True" />
+	</SchemaModules>
+</Application>
