@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Tests xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Date="6/26/2012">
+  <Test Name="Sample" ApplicationName="MDISolution.Win" Result="Passed" Elapsed="00:00:08.9318931" Started="15:25:07.1325632" MachineName="SAMMAL-SV" IP="172.22.0.156" />
+</Tests>
