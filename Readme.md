@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MDIViewNavigationController.cs](./CS/MDISolution.Module.Win/Controllers/MDIViewNavigationController.cs)
+* [Model.xafml](./CS/MDISolution.Win/Model.xafml)
+<!-- default file list end -->
 # OBSOLETE - How to Add the Back and Forward Buttons to an MDI Application
 
 
